@@ -1,2 +1,2 @@
 # My_training_process
-This is the repository for my training and further explorations.
+Here are the training process for my matplotlib skills and its codes and results
