@@ -1,2 +1,2 @@
-# My_training_process
-This is the repository for my training and further explorations.
+# My_training_process_in_pandas
+This is the repository for my pandas training and the revelant records
