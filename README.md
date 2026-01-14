@@ -1,3 +1,4 @@
-# My_training_process
-Here are the training process for my skills and further explorations
+# My_Xmind_training_process
+I practiced my Xmind skiils and made several mind maps,here are the results
+
 
